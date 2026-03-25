@@ -29,4 +29,4 @@ I am a PhD student in **Education (Technology-enhanced Learning)** at **The Univ
 * **Shen, K.**, Huang, H., & Hua, B. (2021). Constructing knowledge graph with public resumes. [cite_start]*Data Analysis and Knowledge Discovery*, 5(7), 81-90. [cite: 38, 39]
 
 ## 🏸 Honors & Interests
-* **Influencer**: 10k+ followers on Red(小红书) (@沈科杰), promoting sports and a balanced lifestyle.
+* **Influencer**: 17k+ followers on Red(小红书) (@沈科杰), promoting sports and a balanced lifestyle.

@@ -8,31 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in **Educational Technology** joint-trained/affiliated with **Peking University** and **The University of Hong Kong**. My research explores the intersection of **Generative AI (GenAI)**, **Self-Regulated Learning (SRL)**, and **Learning Analytics**.
+I am a PhD student in **Education (Technology-enhanced Learning)** at **The University of Hong Kong (HKU)**. [cite_start]My research is centered on **Learning Analytics**, **Self-regulated Learning (SRL)**, and **Generative AI**[cite: 23, 24]. 
 
-I am particularly interested in how LLMs (e.g., ChatGPT) influence learners' metacognitive processes and learning performance.
+[cite_start]I hold a Master's degree in **Educational Technology** from **Peking University** [cite: 6, 8] [cite_start]and a Double Bachelor's degree in **Information Management** and **Psychology** from the same institution[cite: 10, 11].
 
 ---
-
-## 🔍 Research Interests
-* **Generative AI in Education**: Exploring the "metacognitive laziness" and motivation shifts in GenAI-assisted learning.
-* **Self-Regulated Learning (SRL)**: Developing analytics toolkits to facilitate learner self-assessment and monitoring.
-* **Gamified Learning**: Meta-analysis and experimental studies on knowledge retention.
 
 ## 🎓 Education
-* **Peking University**, PhD in Educational Technology
-* **The University of Hong Kong**, PhD in Education (Technology-enhanced Learning)
+* **The University of Hong Kong**, PhD in Education, 2025 – Present
+* [cite_start]**Peking University**, M.Ed. in Educational Technology, 2022 – 2025 [cite: 6, 7]
+  * [cite_start]*Honors: Academic Excellence Award, Special Scholarship (First Class)* [cite: 15, 19]
+* [cite_start]**Peking University**, B.Mgt. in Information Management & B.S. in Psychology (Double Degree), 2017 – 2022 [cite: 10, 11, 12]
 
-## 📝 Selected Publications
-* **Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance.** *British Journal of Educational Technology (BJET)*, 2024. (**Citations: 480+**)
-* **Facilitating learners' self-assessment during formative writing tasks using writing analytics toolkit.** *Journal of Computer Assisted Learning (JCAL)*, 2024.
-* **游戏化学习方式如何影响知识保留——基于38项实验和准实验研究的元分析.** *现代远程教育研究*, 2024.
+## 📝 Selected Publications (APA 7th)
+* Tang, L., **Shen, K.**, Le, H., et al. (2024). Facilitating learners' self-assessment during formative writing tasks using writing analytics toolkit. [cite_start]*Journal of Computer Assisted Learning*, 1-18. [cite: 26, 27]
+* Fan, Y., Tang, L., Le, H., **Shen, K.**, et al. (2024). Beware of Metacognitive Laziness: Effects of Generative Artificial Intelligence on Learning Motivation, Processes, and Performance. [cite_start]*British Journal of Educational Technology*. [cite: 28, 29, 30]
+* Shen, Y., Tang, L., Le, H., **Shen, K.**, et al. (2024). Aligning and Comparing Values of ChatGPT and Human as Learning Facilitators: a Value-Sensitive Design Approach. [cite_start]*British Journal of Educational Technology*. [cite: 31, 32, 33]
+* **Shen, K.**, Su, H. & Shang J. (2024). A Meta-analysis of the Impact of Game-based Learning Methods on Knowledge Retention. [cite_start]*Modern Distance Education Research*. [cite: 33, 34, 35]
+* **Shen, K.**, Huang, H., & Hua, B. (2021). Constructing knowledge graph with public resumes. [cite_start]*Data Analysis and Knowledge Discovery*, 5(7), 81-90. [cite: 38, 39]
 
-## 🏸 Beyond Academia
-I am an active **Badminton Influencer** on Little Red Book (小红书: @沈科杰), where I share sports insights and promote a healthy, balanced lifestyle to over 10,000 followers.
 
----
-
-## 📧 Contact
-* **Email**: 844302508@qq.com
-* **Location**: Beijing / Hong Kong
+## 🏸 Honors & Interests
+* **Influencer**: 10k+ followers on Little Red Book (@沈科杰), promoting sports and balanced lifestyle.

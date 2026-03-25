@@ -18,7 +18,6 @@ I am a PhD student in **Education (Technology-enhanced Learning)** at **The Univ
 
 * **The University of Hong Kong**, PhD in Education, 2025 – Present
 * [cite_start]**Peking University**, M.Ed. in Educational Technology, 2022 – 2025 [cite: 2, 12]
-  * [cite_start]*Honors: Academic Excellence Award, Special Scholarship (First Class)* [cite: 15, 19]
 * [cite_start]**Peking University**, B.Mgt. in Information Management & B.S. in Psychology (Double Degree), 2017 – 2022 [cite: 10, 11, 12]
 
 ## 📝 Selected Publications (APA 7th)
@@ -30,7 +29,4 @@ I am a PhD student in **Education (Technology-enhanced Learning)** at **The Univ
 * **Shen, K.**, Huang, H., & Hua, B. (2021). Constructing knowledge graph with public resumes. [cite_start]*Data Analysis and Knowledge Discovery*, 5(7), 81-90. [cite: 38, 39]
 
 ## 🏸 Honors & Interests
-
-* [cite_start]**Peking University High-Level Badminton Team**, Captain (2017-2022)[cite: 86].
-* **Influencer**: 10k+ followers on Little Red Book (@沈科杰), promoting sports and balanced lifestyle.
-* [cite_start]**Skills**: Python (PyTorch, Pandas), R, SQL, LaTeX[cite: 88].
+* **Influencer**: 10k+ followers on Red(小红书) (@沈科杰), promoting sports and a balanced lifestyle.

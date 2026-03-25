@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale            : "en-US"
 site_theme        : "default"
-title             : "Kejie Shen (沈科杰）"
+title             : "Kejie Shen (沈科杰)"
 title_separator   : "-"
 name              : &name "Kejie Shen"
 description       : &description "PhD Student in Education at HKU. Researcher in Learning Analytics, GenAI, and SRL."
@@ -11,18 +11,44 @@ repository        : "RyanSKJ/ryanskj.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
-  name             : "沈科杰 (Kejie Shen)"
-  pronouns         : "He/Him"
-  bio              : "PhD Student @ HKU | Master @ PKU | Badminton Champion & Influencer"
-  location         : "Hong Kong"
-  employer         : "The University of Hong Kong"
-  [cite_start]email            : "shenkj@connect.hku.hk"
+  avatar          : "profile.png"
+  name            : "沈科杰 (Kejie Shen)"
+  pronouns        : "He/Him"
+  bio             : "PhD Student @ HKU | Master @ PKU | Badminton Champion & Influencer"
+  location        : "Hong Kong"
+  employer        : "The University of Hong Kong"
+  email           : "shenkj@connect.hku.hk"
   
   # Academic Profiles
-  googlescholar    : "https://scholar.google.com/citations?user=cQ0RrqwAAAAJ"
-  researchgate     : "https://www.researchgate.net/profile/Shen-Kejie"
+  googlescholar   : "https://scholar.google.com/citations?user=cQ0RrqwAAAAJ"
+  researchgate    : "https://www.researchgate.net/profile/Shen-Kejie"
 
   # Social Media
-  github           : "RyanSKJ"
-  uri              : "https://www.xiaohongshu.com/user/profile/5f38fb9a000000000100693a"
+  github          : "RyanSKJ"
+  uri             : "https://www.xiaohongshu.com/user/profile/5f38fb9a000000000100693a"
+
+# 下面这些是模板必需的固定配置，请一并保留
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+keep_files:
+  - .git
+markdown: kramdown
+highlighter: rouge
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
